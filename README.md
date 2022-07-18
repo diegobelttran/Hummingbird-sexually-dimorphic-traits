@@ -15,8 +15,6 @@ AcousticPCs.txt: PCA scores of male song properties for 262 species
 
 recording_metadata.csv: Metadata of recordings used in analyses
 
-Simulation of dimorphism (html file)
-
 mcguire_correctedID.tre: McGuire et al. (2014) MCC tree (293 spp.)
 
 Habitat_Data.txt: Strata from Parker III et al. (1996) for hummingbird species
